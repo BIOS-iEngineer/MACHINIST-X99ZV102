@@ -8,6 +8,7 @@
 </a>
 
 ### <a target="_blank" rel="noopener noreferrer" href="https://machinist.de.aliexpress.com/store/3666028">Sponsored by (AliExpress) MACHINIST Store</a>
+* #### This motherboard has been discontinued, BIOS updates will no longer be released.
 * #### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99M-CE5, X99-PE7(X99 V1.2) / XLZ X99Z-V102
 * ##### Release C612RD24 November-02-2020
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases/latest">
