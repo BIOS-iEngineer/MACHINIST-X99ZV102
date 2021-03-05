@@ -22,8 +22,12 @@
     </a>
 
 ## C612RD24 BIOS for MACHINIST X99Z V102 Motherboard
+### Attention! 
+#### C612RD23 support: any V3 & V4 final revision CPUs with UDIMM / RDIMM DDR4 memory module. 
+#### C612RD24 support: only V3 final revision CPUs with only UDIMM DDR4 memory module. 
+#### Add on 'REPUBLIC OF BELARUS' Download and modified separately for any version of bios, see description below. 
   
-![X99Z-V102 Motherboard](Motherboard.PNG)
+![Latest BIOS for Machinist X99Z-V102 Motherboard](Motherboard.PNG)
 
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-001.png" alt="Machinist X99Z C612RD24 BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-002.png" alt="Machinist X99Z C612RD24 BIOS" />
